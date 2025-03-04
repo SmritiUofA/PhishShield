@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+flask  # Optional, if deploying
+fastapi  # Optional, alternative to Flask
